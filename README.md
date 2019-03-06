@@ -1,4 +1,6 @@
-# lvv-ri  (LVV = Latral Ventricle Volume; RI = Response Inhibition)
+# lvv-ri 
+
+### (LVV = Lateral Ventricle Volume; RI = Response Inhibition)
 
 ## Lateral ventricle volume trajectories predict response inhibition in older age<br> - A longitudinal brain imaging and machine learning approach
 
