@@ -1,5 +1,5 @@
 # lvv-ri
-## Lateral ventricle volume trajectories predict response inhibition in older age - a longitudinal brain imaging and machine learning approach
+## Lateral ventricle volume trajectories predict response inhibition in older age<br> - A longitudinal brain imaging and machine learning approach
 
 Astri J Lundervold, Alexandra Vik, Arvid Lundervold. (to appear in PLOS ONE)
 
