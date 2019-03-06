@@ -1,5 +1,7 @@
 # lvv-ri 
 
+MIT License - Copyright (C) 2019, Arvid Lundervold <br>
+
 #### (LVV = Lateral Ventricle Volume; RI = Response Inhibition)
 
 ![Fig1](./assets/Figure1.png)
@@ -21,5 +23,5 @@ of left and right lateral ventricle volumes across the three waves were quantifi
 **Conclusion:** Major contributions
 were: (i) a longitudinal design, (ii) advanced brain imaging and segmentation procedures with longitudinal data analysis, and (iii) a data driven machine learning approach including cross-validation and permutation testing to predict behaviour, solely from the individual's brain ``signatures” (LVV trajectories).<br>
 
-Copyright (C) 2019, Arvid Lundervold <br>
+
 
