@@ -6,7 +6,7 @@
 (2) [Mohn Medical Imaging and Visualization Centre](https://mmiv.no), Department of Biomedicine, University of Bergen, Norway
 
 
-**Abstract**
+**ABSTRACT**
 
 **Objective:** In a three-wave 6 yrs longitudinal study we investigated if the expansion of lateral ventricle (LV) volumes (regarded as a proxy for brain tissue loss) predicts third wave performance on a test of response inhibition (RI).<br>
 **Participants and Methods:**  Trajectories
