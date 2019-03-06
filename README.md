@@ -1,4 +1,4 @@
-# lvv-ri 
+# lvv-ri
 
 Copyright (c) 2019, Arvid Lundervold <br>
 
@@ -23,5 +23,4 @@ of left and right lateral ventricle volumes across the three waves were quantifi
 **Conclusion:** Major contributions
 were: (i) a longitudinal design, (ii) advanced brain imaging and segmentation procedures with longitudinal data analysis, and (iii) a data driven machine learning approach including cross-validation and permutation testing to predict behaviour, solely from the individual's brain ``signatures” (LVV trajectories).<br>
 
-
-
+#### See `setup.md` for setting up your system to run and modify lvv-ri
