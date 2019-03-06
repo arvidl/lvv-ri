@@ -1,6 +1,6 @@
 # lvv-ri 
 
-MIT License - Copyright (C) 2019, Arvid Lundervold <br>
+Copyright (c) 2019, Arvid Lundervold <br>
 
 #### (LVV = Lateral Ventricle Volume; RI = Response Inhibition)
 
