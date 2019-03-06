@@ -1,0 +1,26 @@
+name: lvv-ri
+dependencies:
+- python>=3.6.0
+- pip
+- ipython
+- ipywidgets
+- jupyter
+- git
+- numpy
+- matplotlib
+- pandas
+- scikit-learn>=0.20
+- ipykernel
+- conda-forge::jupyter_contrib_nbextensions
+- conda-forge::jupyterlab
+- conda-forge::statsmodels
+- scipy
+- seaborn
+- rpy2
+- simplegeneric
+- pip:
+  - pip
+  - pandas-profiling
+  - eli5
+  - pdpbox
+  - wand
