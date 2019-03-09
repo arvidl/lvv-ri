@@ -25,3 +25,4 @@ dependencies:
   - eli5
   - pdpbox
   - wand
+  - pandas_ml
